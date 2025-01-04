@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, Xcode, PCB Design, USB C and Thunderbolt stuff and ML Models and making AI's
 - 💞️ I’m looking to collaborate on stuff
 - 📫 How to reach me elliot@patpending.uk
-- 😄 Pronouns: Sex: He/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I think the UK sucks for jobs and as a hub for entrepreneurship of making physical products
 
 <!---
